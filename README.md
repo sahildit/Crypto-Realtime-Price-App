@@ -53,8 +53,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-# Crypto-Realtime-Price-App
-React App for displaying real time prices of crypto currency using CoinGecko API key.
-
-![image](https://user-images.githubusercontent.com/47186806/128577851-b1ef5bed-efba-4a16-8425-d7d9873910f4.png)
